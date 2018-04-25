@@ -11,14 +11,14 @@ test_that("quadraticSieve generates correct numbers", {
     testNums <- lapply(1:5, function(x) {
                             prod(nextprime(urand.bigz(2,42,x)))
                         })
-
+    
     gmpFactorize <- lapply(testNums, function(x) {
                             facs <- factorize(x)
                             facs[order(asNumeric(facs))]
                         })
-
+    
     quadSieveFacs <- lapply(testNums, quadraticSieve)
-
+    
     expect_equal(gmpFactorize, quadSieveFacs);
 })
 
