@@ -1,8 +1,8 @@
-c9a0d0bbaf5e637c1f5983db8d80b73d *DESCRIPTION
+570ba49c6a71d493efedc9dee4a912b4 *DESCRIPTION
 54a5c54adef93bb1dcc5ce1510cc875b *NAMESPACE
-bb2508865052b76efa9a580f61adbf31 *NEWS
+81f3734505a1ced69e5504bde4ae96c5 *NEWS
 f37c388315546b6466732d7713d79b35 *R/IntegerFactorization.R
-0d313b51119777c0bb295f064edbfc14 *README.md
+904620dd996f0422259cced212b7826a *README.md
 7ef5d9518941a67592b3892e11490509 *cleanup
 9366fb9d23bb8b70e7622853557baedb *configure
 5b7f5def4b65b93d8c504e1fff580325 *configure.in
@@ -20,11 +20,11 @@ d03ae66a3b97f4d0b049012839dedd59 *inst/include/tonellishanks.h
 41d71965bb7d0db95448fa3bebad165e *src/Makevars.in
 638f5a48e233e5133c4a4f9c0a6dc0a8 *src/Makevars.win
 8350226d4cf61244918867be4540d835 *src/biginteger.cc
-344d3789ed1fd079d1e275586255a042 *src/factorization.cc
+8848b27aa49bc61fdacf16cbb072af4f *src/factorization.cc
 f2d1cc5e6c263570f85830001c6c4154 *src/importExportMPZ.cc
 1f388b9d89d7e2663062ff891b7f281d *src/init.cc
 61f8e9846e18a273abb4c1cbb7125f66 *src/pollardrho.cc
-5fe4c6f3a468a39ac58c31bbd3463678 *src/quadraticsieve.cc
+ca3fafd773fb792e0ddd05d1d16627f9 *src/quadraticsieve.cc
 5b49f20f6d215759bf583968693ed2e4 *src/rsafactorize.cc
 6c1a2c0caa913d983c5c9326a30a3860 *src/tonellishanks.cc
 e58d8416c7c78296549041fad89a17d6 *tests/testthat.R
